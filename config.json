@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productpync",
+        "uuid": 3519920,
+        "checksum": "bckmof"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
